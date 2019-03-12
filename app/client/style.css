@@ -1,0 +1,8 @@
+.background_image{
+  background-image: url("/images/background.png");
+  color: white;
+}
+
+.background_image Header{
+  color: white !important;
+}
