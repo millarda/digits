@@ -29,5 +29,5 @@ Contact.propTypes = {
   contact: PropTypes.object.isRequired,
 };
 
-/** Wrap this component in withRouter since we use the <Link> React Router element. */
+/** Wrap this component in withRouter since we use the <Link> React Router element.  */
 export default withRouter(Contact);
