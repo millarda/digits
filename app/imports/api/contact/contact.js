@@ -15,7 +15,7 @@ const Contactschema = new SimpleSchema({
   owner: String,
 }, { tracker: Tracker });
 
-/** Attach this schema to the collection. */
+/** Attach this schema to the collection.  */
 Contacts.attachSchema(Contactschema);
 
 /** Make the collection and schema available to other code. */
